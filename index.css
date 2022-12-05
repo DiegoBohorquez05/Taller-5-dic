@@ -16,3 +16,11 @@ body{
     display: flex;
     justify-content: center;
 }
+
+#imagen{
+    justify-content: center;
+}
+
+#datos{
+    text-align: center;
+}
